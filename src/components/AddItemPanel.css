@@ -1,0 +1,8 @@
+.add-item-panel {
+  display: flex;
+  margin-top: 10px;
+}
+
+.form-control {
+  margin-right: 5px;
+}
